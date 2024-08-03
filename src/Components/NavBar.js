@@ -40,10 +40,10 @@ const Header = () => {
                         <p>SERVICES</p>
                     </a>
                     <a href="#" onClick={() => handleSmoothScroll('ProjectContainerMain')} className="projectMenu">
-                        <p>HACKATHON</p>
+                        <p>TEAM</p>
                     </a>
-                    <a href="#" className="projectMenu">
-                        <p>PARTNERS</p>
+                    <a href="#" className="projectMenu4">
+                        <p>CONTACT US</p>
                     </a>
                      
                     </div>
@@ -66,10 +66,10 @@ const Header = () => {
                         <p>SERVICES</p>
                     </a>
                     <a href="#" onClick={() => handleSmoothScroll('ProjectContainerMain')} className="projectMenu2">
-                        <p>HACKATHON</p>
+                        <p>TEAM</p>
                     </a>
                     <a href="#" className="achivementsMenu2">
-                        <p>PARTNERS</p>
+                        <p>CONTACT US</p>
                     </a>
                     
                     </div>
