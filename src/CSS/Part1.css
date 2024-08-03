@@ -49,14 +49,20 @@
         margin-bottom: 2rem;
     }
     .MotionText-Part1{
-        margin-top: -1rem;
+        font-size: 20px;
+        margin-top: -25px;
+        margin-left: 0;
+        display: grid;
+        justify-content: center;
+        color: #808080;
+        
     }
-
     .Main-Logo{
         margin-top: 2rem;
         width: 500px;
         height: 450px;
     }
+    
     
 }
 
@@ -80,5 +86,15 @@
         margin-top: 3rem;
         width: 350px;
         height: 300px;
+    }
+
+    .MotionText-Part1{
+        font-size: 20px;
+        margin-top: -50px;
+        margin-left: 0;
+        display: grid;
+        justify-content: center;
+        color: #808080;
+        
     }
 }

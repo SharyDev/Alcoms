@@ -198,7 +198,7 @@
     
 }
 
-@media (min-width: 380px) and (max-width: 650px)
+@media (min-width: 400px) and (max-width: 650px)
 {
     .Part1MainContainer{
         grid-template-columns: 1fr;
@@ -211,18 +211,24 @@
         margin-bottom: 2rem;
     }
     .MotionText-Part1{
-        margin-top: -1rem;
+        font-size: 20px;
+        margin-top: -25px;
+        margin-left: 0;
+        display: grid;
+        justify-content: center;
+        color: #808080;
+        
     }
-
     .Main-Logo{
         margin-top: 2rem;
         width: 500px;
         height: 450px;
     }
     
+    
 }
 
-@media (min-width: 230px) and (max-width: 379px)
+@media (min-width: 200px) and (max-width: 399px)
 {
     .Part1MainContainer{
         grid-template-columns: 1fr;
@@ -242,6 +248,16 @@
         margin-top: 3rem;
         width: 350px;
         height: 300px;
+    }
+
+    .MotionText-Part1{
+        font-size: 20px;
+        margin-top: -50px;
+        margin-left: 0;
+        display: grid;
+        justify-content: center;
+        color: #808080;
+        
     }
 }
 /*!*******************************************************************************************************************************************************************************************************************************************************************!*\
