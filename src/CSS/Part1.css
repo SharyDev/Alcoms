@@ -36,7 +36,7 @@
     
 }
 
-@media (min-width: 380px) and (max-width: 650px)
+@media (min-width: 400px) and (max-width: 650px)
 {
     .Part1MainContainer{
         grid-template-columns: 1fr;
@@ -60,7 +60,7 @@
     
 }
 
-@media (min-width: 230px) and (max-width: 379px)
+@media (min-width: 200px) and (max-width: 399px)
 {
     .Part1MainContainer{
         grid-template-columns: 1fr;
