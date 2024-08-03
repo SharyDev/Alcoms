@@ -15,20 +15,24 @@
 }
 
 .Main-Logo{
-    margin-top: 3rem;
-    width: 450px;
-    height: 400px;
+    margin-top: 2rem;
+    width: 600px;
+    height: 550px;
 }
 
 .Part1-Right-Container{
-    margin-top: 10rem;
+    margin-top: 12rem;
 }
 .ClubTitleText-Part1{
+    font-size: 20px;
     font-weight: 600;
+    color: #4D4D4F;
 }
 .MotionText-Part1{
+    font-size: 20px;
     margin-top: 10px;
-    margin-left: 60px;
+    margin-left: 90px;
+    color: #808080;
     
 }
 
@@ -47,6 +51,13 @@
     .MotionText-Part1{
         margin-top: -1rem;
     }
+
+    .Main-Logo{
+        margin-top: 2rem;
+        width: 500px;
+        height: 450px;
+    }
+    
 }
 
 @media (min-width: 230px) and (max-width: 379px)
