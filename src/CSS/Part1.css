@@ -4,8 +4,8 @@
 .Part1MainContainer{
     display: grid;
     grid-template-columns: 1fr 1fr;
-    background-color: white;
-    height: 33rem;
+    background-color: rgb(21, 38, 66);
+    height: 34rem;
 }
 
 .Part1-Image-Container{
@@ -15,7 +15,7 @@
 }
 
 .Main-Logo{
-    margin-top: 2rem;
+    margin-top: 0rem;
     width: 600px;
     height: 550px;
 }
@@ -26,13 +26,13 @@
 .ClubTitleText-Part1{
     font-size: 20px;
     font-weight: 600;
-    color: #4D4D4F;
+    color: white;
 }
 .MotionText-Part1{
     font-size: 20px;
     margin-top: 10px;
     margin-left: 90px;
-    color: #808080;
+    color: white;
     
 }
 

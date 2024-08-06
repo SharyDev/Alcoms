@@ -3,7 +3,7 @@
 import React from 'react';
 import { useTypewriter, Cursor } from 'react-simple-typewriter';
 import Image from 'next/image';
-import Logo2 from '../Asset/MainLogo2.png'; 
+import Logo2 from '../Asset/MainLogo4.png'; 
 import '../CSS/Part1.css';
 
 const Part1 = () => {
